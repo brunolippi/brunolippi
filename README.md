@@ -1,4 +1,4 @@
-- 👋 &nbsp; Hey, I’m @brunolippi, from Buenos Aires, Argentina.
+- 👋 &nbsp; Hey, I’m @brunolippi from Buenos Aires, Argentina.
 - 👨🏻‍💻 &nbsp; Working at Endava as a Back-End Developer.
 - 🌱 &nbsp; Currently working with NodeJS and TypeScript.
 - 📫 &nbsp; You can reach me at bruno@bzlippi.ar or [LinkedIn](http://linkedin.com/in/brunozlippi/).
