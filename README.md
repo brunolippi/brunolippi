@@ -1,7 +1,6 @@
 - 👋 &nbsp; Hey, I’m @brunolippi, from Buenos Aires, Argentina.
-- 👨🏻‍💻 &nbsp; Working at Endava.
-- 👀 &nbsp; I’m interested in Full Stack development using JavaScript.
-- 🌱 &nbsp; I’m currently expanding my knowledge in backend using NodeJS and TypeScript.
+- 👨🏻‍💻 &nbsp; Working at Endava as a Back-End Developer.
+- 🌱 &nbsp; Currently working with NodeJS and TypeScript.
 - 📫 &nbsp; You can reach me at bruno@bzlippi.ar or [LinkedIn](http://linkedin.com/in/brunozlippi/).
 
 <!---
