@@ -1,6 +1,6 @@
 - 👋 &nbsp; Hey, I’m @brunolippi from Buenos Aires, Argentina.
 - 👨🏻‍💻 &nbsp; Working at nocnoc as a Back-End Developer.
-- 🌱 &nbsp; Currently working with NodeJS and TypeScript.
+- 🌱 &nbsp; I used to work with NodeJS and TypeScript. Now I'm learning Java!
 - 📫 &nbsp; You can reach me at bruno@bzlippi.ar or [LinkedIn](http://linkedin.com/in/brunozlippi/).
 
 <!---
